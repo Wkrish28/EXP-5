@@ -17,7 +17,7 @@ S.No	Name of the Apparatus	Range	Quantity
 
 # CIRCUIT DIAGRAM:
 
-<img width="50" height="53" alt="image" src="https://github.com/user-attachments/assets/b7e2f6c8-42eb-4077-8e0c-f831aed4663a" />
+<img width="1010" height="534" alt="image" src="https://github.com/user-attachments/assets/b7e2f6c8-42eb-4077-8e0c-f831aed4663a" />
 
 <img width="1010" height="534" alt="image" src="https://github.com/user-attachments/assets/ad04090b-2cb1-495e-adde-de4318bbdc51" />
 
